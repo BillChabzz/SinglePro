@@ -3,6 +3,16 @@ html,body{
     padding: 0;
 }
 
+
+/****************LISTS*************/
+ul{
+    list-style: none;
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+}
+
 /*********IDs**************/
 #banner{
     background-image: url(http://img2.themebin.com/hd-wallpapers/1920x1200/new_york_city_1920.jpg);
