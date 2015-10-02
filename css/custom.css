@@ -1,0 +1,12 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+
+/*********IDs**************/
+#banner{
+    background-image: url(http://img2.themebin.com/hd-wallpapers/1920x1200/new_york_city_1920.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
