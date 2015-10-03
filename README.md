@@ -1,2 +1,3 @@
 # SinglePro
-Hackathon project on SamplePro template
+Hackathon project on SinglePro template
+
